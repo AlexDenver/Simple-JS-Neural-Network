@@ -4,7 +4,7 @@ Simple Neural Network (SNN) is a JavaScript Client Side Simplified Neural Networ
 
 ## Getting Started
 Download the snn.js file and matrix.js file from the /lib into your Working directory.
-Link both the files into your HTML document. 
+Link both the files into your HTML document or Import them into your Node Project. 
 
 
 ### Creating a Instance
